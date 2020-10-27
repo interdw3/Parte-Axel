@@ -1,2 +1,3 @@
 # Partes
-Acá van las partes de cada uno (partes del proyecto mm)
+Esta es la parte de:
+Asignatura --> Perfil <-- Perfil Egresado
